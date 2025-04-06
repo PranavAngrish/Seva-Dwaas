@@ -11,13 +11,13 @@ function App() {
   return (
     <LanguageProvider>
       <Router>
-        
-          <Routes>
-            <Route path="/" element={<LanguageSelection />} />
-            <Route path="/home" element={<Home />} />
-            <Route path="/scheme/:id" element={<SchemeDetails />} />
-          </Routes>
-        
+        <Routes>
+          <Route path="/" element={<LanguageSelection />} />
+          <Route path="/loading" element={<Loading />} />
+          <Route path="/home" element={<Home />} />
+          <Route path="/scheme/:id" element={<SchemeDetails />} />
+          <Route path="*" element={<Navigate to="/" replace />} />
+        </Routes>
       </Router>
     </LanguageProvider>
   );

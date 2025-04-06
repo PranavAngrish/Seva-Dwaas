@@ -95,7 +95,7 @@ const FeaturesSection = () => {
 
         <Grid container spacing={4}>
           {features.map((feature, index) => (
-            <Grid item xs={12} sm={6} md={3} key={index}>
+            <Grid item xs={12} key={index}>
               <FeatureCard {...feature} index={index} />
             </Grid>
           ))}

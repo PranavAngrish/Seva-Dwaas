@@ -1,40 +1,46 @@
 import React, { useEffect, useState } from 'react';
 import { Box, Typography, CircularProgress } from '@mui/material';
 import { motion, AnimatePresence } from 'framer-motion';
+import { useNavigate } from 'react-router-dom';
 
 const Loading = () => {
+  const navigate = useNavigate();
   const [isVisible, setIsVisible] = useState(true);
 
   useEffect(() => {
     const timer = setTimeout(() => {
       setIsVisible(false);
+      setTimeout(() => {
+        navigate('/home');
+      }, 500); // Wait for exit animation to complete
     }, 2000);
+
     return () => clearTimeout(timer);
-  }, []);
+  }, [navigate]);
 
   return (
     <AnimatePresence>
       {isVisible && (
-        <motion.div
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          exit={{ opacity: 0 }}
-          transition={{ duration: 0.5 }}
+        <Box
+          sx={{
+            position: 'fixed',
+            top: 0,
+            left: 0,
+            right: 0,
+            bottom: 0,
+            display: 'flex',
+            flexDirection: 'column',
+            alignItems: 'center',
+            justifyContent: 'center',
+            background: 'linear-gradient(135deg, #fff5f0 0%, #ffe4d6 100%)',
+            zIndex: 9999,
+          }}
         >
-          <Box
-            sx={{
-              position: 'fixed',
-              top: 0,
-              left: 0,
-              right: 0,
-              bottom: 0,
-              display: 'flex',
-              flexDirection: 'column',
-              alignItems: 'center',
-              justifyContent: 'center',
-              background: 'linear-gradient(135deg, #fff5f0 0%, #ffe4d6 100%)',
-              zIndex: 9999,
-            }}
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            transition={{ duration: 0.5 }}
           >
             <motion.div
               animate={{
@@ -81,8 +87,8 @@ const Loading = () => {
                 },
               }}
             />
-          </Box>
-        </motion.div>
+          </motion.div>
+        </Box>
       )}
     </AnimatePresence>
   );
