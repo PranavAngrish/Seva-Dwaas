@@ -1,0 +1,49 @@
+{
+  "selectLanguage": "Select Your Language",
+  "chooseLanguage": "Choose from the 23 official languages of India",
+  "welcome": "Welcome to Seva Dwaar",
+  "startBuilding": "Start building your application",
+  "home": "Home",
+  "about": "About",
+  "contact": "Contact",
+  "login": "Login",
+  "logout": "Logout",
+  "profile": "Profile",
+  "settings": "Settings",
+  "loading": "Loading...",
+  "searchPlaceholder": "Search for government schemes...",
+  "exampleQueries": [
+    "Find schemes for farmers",
+    "Search for education scholarships",
+    "Look up healthcare benefits",
+    "Find housing schemes"
+  ],
+  "schemeDetails": {
+    "backToResults": "Back to Results",
+    "schemeDetails": "Scheme Details",
+    "benefits": "Benefits",
+    "eligibility": "Eligibility Criteria",
+    "applicationProcess": "Application Process",
+    "documentsRequired": "Required Documents",
+    "faqs": "Frequently Asked Questions",
+    "sources": "Sources and References"
+  },
+  "communicationChannels": {
+    "title": "Alternative Communication Channels",
+    "whatsapp": {
+      "title": "WhatsApp Chatbot",
+      "description": "Access the same services through our WhatsApp chatbot. Get instant responses and assistance 24/7.",
+      "button": "Start Chat"
+    },
+    "sms": {
+      "title": "SMS Service",
+      "description": "Send your queries via SMS and receive detailed responses. Simple and accessible for all.",
+      "button": "Register Now"
+    },
+    "ivr": {
+      "title": "IVR Service",
+      "description": "Call our toll-free number to interact with our AI voice assistant in your preferred language.",
+      "button": "Call Now"
+    }
+  }
+} 
