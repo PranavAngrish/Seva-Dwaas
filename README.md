@@ -16,8 +16,10 @@ To start the frontend locally, follow these steps:
 cd client
 npm install
 npm run start
+```
 
 The app will be available at http://localhost:3000/ (or the port specified in your config).
+
 
 ## 🤖 AI Model Execution  
 To understand how our AI model processes user queries and maps them to relevant healthcare schemes, refer to our Colab notebook:
