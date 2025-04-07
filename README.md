@@ -20,6 +20,10 @@ npm run start
 
 The app will be available at http://localhost:3000/ (or the port specified in your config).
 
+## Schemes Dataset
+The data generation code is present in Data_generation.ipynb
+The resultant dataset is stored in json format in extracted_schemes.json
+
 
 ## 🤖 AI Model Execution  
 To understand how our AI model processes user queries and maps them to relevant healthcare schemes, refer to our Colab notebook:
