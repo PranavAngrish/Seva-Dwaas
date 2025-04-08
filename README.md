@@ -25,6 +25,9 @@ The data generation code is present in Data_generation.ipynb
 The resultant dataset is stored in json format in extracted_schemes.json
 
 
+## Realtime workflow
+The app uses Livekit open source library to create a real-time interaction between the user and the AI Model
+
 ## 🤖 AI Model Execution  
 To understand how our AI model processes user queries and maps them to relevant healthcare schemes, refer to our Colab notebook:
 
