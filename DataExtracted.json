@@ -1,5 +1,9 @@
 [
   {
+    "Tags": [
+      "health",
+      "financial aid"
+    ],
     "place": "Assam",
     "Scheme Name": "Assam Arogya Nidhi Scheme",
     "Details": [
@@ -77,6 +81,10 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "health"
+    ],
     "place": "Chhattisgarh",
     "Scheme Name": "Asangathit Karmakar Gambhir Bimari Chikitsa Sahayata Yojana",
     "Details": [
@@ -134,6 +142,11 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "disability",
+      "health"
+    ],
     "place": "Kerala",
     "Scheme Name": "Distress Relief Fund For The Differently Abled (Medical Treatment)",
     "Details": [
@@ -223,6 +236,9 @@
     ]
   },
   {
+    "Tags": [
+      "urban_development"
+    ],
     "place": "Ministry Of Housing & Urban Affairs",
     "Scheme Name": "Atal Mission For Rejuvenation And Urban Transformation",
     "Details": [
@@ -328,6 +344,10 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "financial aid"
+    ],
     "place": "Assam",
     "Scheme Name": "Assam Arogya Nidhi Scheme",
     "Details": [
@@ -405,6 +425,10 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "health"
+    ],
     "place": "Chhattisgarh",
     "Scheme Name": "Theka Shramik Evan Hamaal Shramik Baahy Rogi Chikitsa Sahaayata Yojana",
     "Details": [
@@ -458,6 +482,9 @@
     ]
   },
   {
+    "Tags": [
+      "health"
+    ],
     "place": "Ministry Of Housing & Urban Affairs",
     "Scheme Name": "Swachh Bharat Mission – Urban 2.0",
     "Details": [
@@ -509,6 +536,14 @@
     ]
   },
   {
+    "Tags": [
+      "children",
+      "financial aid",
+      "health",
+      "pregnancy",
+      "minority",
+      "women"
+    ],
     "place": "Puducherry",
     "Scheme Name": "Grant of Financial Assistance to Poor Scheduled Caste Pregnant & Lactating Women",
     "Details": [
@@ -587,6 +622,7 @@
     ]
   },
   {
+    "Tags": [],
     "place": "Karnataka",
     "Scheme Name": "Thayi Bhagya Scheme(comprehensive Maternal Healthcare)",
     "Details": [
@@ -655,6 +691,10 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "disability"
+    ],
     "place": "Kerala",
     "Scheme Name": "Aswasakiranam",
     "Details": [
@@ -715,6 +755,10 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "unknown"
+    ],
     "place": "Chhattisgarh",
     "Scheme Name": "Nirmaan Shramik Mrtyu Evan Divyaang Sahaayata Yojana",
     "Details": [
@@ -782,6 +826,13 @@
     ]
   },
   {
+    "Tags": [
+      "education",
+      "legal",
+      "employment",
+      "artists_media",
+      "housing"
+    ],
     "place": "Goa",
     "Scheme Name": "Goa (Technical/ Vocational Training To Sex Workers And Sexually Abused Women) Scheme, 2013 (PRABHAT)",
     "Details": [
@@ -875,6 +926,11 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "health",
+      "pregnancy"
+    ],
     "place": "Chhattisgarh",
     "Scheme Name": "Safai Karmakar Prasuti Sahayata Yojana",
     "Details": [
@@ -929,6 +985,9 @@
     ]
   },
   {
+    "Tags": [
+      "health"
+    ],
     "place": "Delhi",
     "Scheme Name": "Delhi Arogya Nidhi",
     "Details": [
@@ -984,6 +1043,11 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "women",
+      "special_events"
+    ],
     "place": "Chhattisgarh",
     "Scheme Name": "Chhattisgarh Mukhyamantri Kanya Vivah Yojana",
     "Details": [
@@ -1035,6 +1099,15 @@
     ]
   },
   {
+    "Tags": [
+      "artists_media",
+      "disability",
+      "legal",
+      "health",
+      "housing",
+      "youth",
+      "social_welfare"
+    ],
     "place": "Ministry Of External Affairs",
     "Scheme Name": "Indian Community Welfare Fund",
     "Details": [
@@ -1116,6 +1189,10 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "workers"
+    ],
     "place": "Gujarat",
     "Scheme Name": "Full Medical Checkup Assistance Scheme- Gujarat Labour Welfare Board",
     "Details": [
@@ -1190,6 +1267,11 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "pregnancy",
+      "women"
+    ],
     "place": "West Bengal",
     "Scheme Name": "Maternity Benefit",
     "Details": [
@@ -1276,6 +1358,10 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "health"
+    ],
     "place": "Odisha",
     "Scheme Name": "Odisha State Treatment Fund",
     "Details": [
@@ -1343,6 +1429,10 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "health"
+    ],
     "place": "Punjab",
     "Scheme Name": "Mobile Lab Scheme (P.B.O.C.W.W.B)",
     "Details": [
@@ -1429,6 +1519,11 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "social_welfare",
+      "financial aid"
+    ],
     "place": "Goa",
     "Scheme Name": "Deen Dayal Swasthya Seva Yojana",
     "Details": [
@@ -1490,6 +1585,12 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "workers",
+      "disability",
+      "financial aid"
+    ],
     "place": "Andhra Pradesh",
     "Scheme Name": "Scheme to Provide Relief in Case of Death or Disability of Registered Building Workers",
     "Details": [
@@ -1554,6 +1655,10 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "financial aid"
+    ],
     "place": "Ministry Of Health & Family Welfare",
     "Scheme Name": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana",
     "Details": [
@@ -1662,6 +1767,10 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "health"
+    ],
     "place": "Ministry Of Health & Family Welfare",
     "Scheme Name": "Rastriya Arogya Nidhi - Health Minister’s Cancer Patient Fund",
     "Details": [
@@ -1724,6 +1833,12 @@
     ]
   },
   {
+    "Tags": [
+      "unknown",
+      "financial aid",
+      "workers",
+      "health"
+    ],
     "place": "Jammu and Kashmir",
     "Scheme Name": "Financial Assistance for Medical (JKBOCWWB)",
     "Details": [
@@ -1820,6 +1935,12 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "disability",
+      "employment",
+      "workers"
+    ],
     "place": "West Bengal",
     "Scheme Name": "West Bengal Transport Workers’ Social Security Scheme: Assistance on Death and Permanent Disablement",
     "Details": [
@@ -1911,6 +2032,11 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "workers",
+      "employment"
+    ],
     "place": "Bihar",
     "Scheme Name": "Bihar Shatabdi Asangathit Karyakshetra Kamagaar Evan Shilpakar Samajik Suraksha Yojana: Accidental Injuries",
     "Details": [
@@ -1973,6 +2099,10 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "employment"
+    ],
     "place": "Bihar",
     "Scheme Name": "Bihar Shatabdi Asangathit Karyakshetra Kamagaar Evan Shilpakar Samajik Suraksha Yojana: Total Permanent Disability",
     "Details": [
@@ -2037,6 +2167,11 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "employment",
+      "workers"
+    ],
     "place": "West Bengal",
     "Scheme Name": "West Bengal Transport Workers’ Social Security Scheme: Assistance for Purchase of Spectacles",
     "Details": [
@@ -2094,6 +2229,11 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "pregnancy",
+      "women"
+    ],
     "place": "Bihar",
     "Scheme Name": "Janani Bal Suraksha Yojana",
     "Details": [
@@ -2169,6 +2309,12 @@
     ]
   },
   {
+    "Tags": [
+      "unknown",
+      "financial aid",
+      "workers",
+      "health"
+    ],
     "place": "Madhya Pradesh",
     "Scheme Name": "Medical Aid Scheme (Ayushman Bharat Scheme 'Niramaya') (MPBOCWWB)",
     "Details": [
@@ -2244,6 +2390,12 @@
     ]
   },
   {
+    "Tags": [
+      "unknown",
+      "health",
+      "financial aid",
+      "workers"
+    ],
     "place": "Himachal Pradesh",
     "Scheme Name": "Payment of Death Benefit ( HPBOCWWB)",
     "Details": [
@@ -2323,6 +2475,12 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "women",
+      "children",
+      "youth"
+    ],
     "place": "Jharkhand",
     "Scheme Name": "Savitribai Phule Kishori Samriddhi Yojana",
     "Details": [
@@ -2410,6 +2568,10 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "social_welfare"
+    ],
     "place": "Nagaland",
     "Scheme Name": "Chief Minister’s Health Insurance Scheme - Nagaland",
     "Details": [
@@ -2496,6 +2658,11 @@
     ]
   },
   {
+    "Tags": [
+      "unknown",
+      "financial aid",
+      "health"
+    ],
     "place": "Gujarat",
     "Scheme Name": "Mukhyamantri Amrutum Yojana",
     "Details": [
@@ -2562,6 +2729,13 @@
     ]
   },
   {
+    "Tags": [
+      "food",
+      "health",
+      "children",
+      "pregnancy",
+      "women"
+    ],
     "place": "Ministry Of Health & Family Welfare",
     "Scheme Name": "Janani Shishu Suraksha Karyakram",
     "Details": [
@@ -2623,6 +2797,9 @@
     ]
   },
   {
+    "Tags": [
+      "health"
+    ],
     "place": "Goa",
     "Scheme Name": "Goa Mediclaim Scheme",
     "Details": [
@@ -2696,6 +2873,12 @@
     ]
   },
   {
+    "Tags": [
+      "disability",
+      "health",
+      "food",
+      "financial aid"
+    ],
     "place": "Rajasthan",
     "Scheme Name": "Aastha Yojana",
     "Details": [
@@ -2757,6 +2940,11 @@
     ]
   },
   {
+    "Tags": [
+      "rural_development",
+      "health",
+      "urban_development"
+    ],
     "place": "Ministry Of Jal Shakti",
     "Scheme Name": "Swachh Bharat Mission – Grameen PHASE I",
     "Details": [
@@ -2823,6 +3011,10 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "animal_husbandry"
+    ],
     "place": "Ministry of Fisheries,Animal Husbandry and Dairying",
     "Scheme Name": "Establishment of State Semen Bank (National Livestock Mission)",
     "Details": [
@@ -2935,6 +3127,11 @@
     ]
   },
   {
+    "Tags": [
+      "pregnancy",
+      "employment",
+      "financial aid"
+    ],
     "place": "Chhattisgarh",
     "Scheme Name": "Asangathit Karmakar Prasuti Sahayata Yojana",
     "Details": [
@@ -2995,6 +3192,11 @@
     ]
   },
   {
+    "Tags": [
+      "children",
+      "health",
+      "pregnancy"
+    ],
     "place": "Chandigarh",
     "Scheme Name": "Integrated Child Development Services: Chandigarh",
     "Details": [
@@ -3043,6 +3245,10 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "artists_media"
+    ],
     "place": "Tripura",
     "Scheme Name": "Tripura Journalist Health Insurance Scheme",
     "Details": [
@@ -3102,6 +3308,13 @@
     ]
   },
   {
+    "Tags": [
+      "pregnancy",
+      "women",
+      "children",
+      "health",
+      "unknown"
+    ],
     "place": "Goa",
     "Scheme Name": "Financial Incentives To Mothers Who Deliver A Girl Child (Mamta)",
     "Details": [
@@ -3174,6 +3387,10 @@
     ]
   },
   {
+    "Tags": [
+      "children",
+      "social_welfare"
+    ],
     "place": "Nagaland",
     "Scheme Name": "Integrated Child Development Services Scheme",
     "Details": [
@@ -3237,6 +3454,11 @@
     ]
   },
   {
+    "Tags": [
+      "urban_development",
+      "health",
+      "women"
+    ],
     "place": "Gujarat",
     "Scheme Name": "Mamta Taruni Abhiyan",
     "Details": [
@@ -3293,6 +3515,11 @@
     ]
   },
   {
+    "Tags": [
+      "employment",
+      "unknown",
+      "financial aid"
+    ],
     "place": "Chhattisgarh",
     "Scheme Name": "Asangathit Karmakaar Mrtyu Evan Divyaang Sahaayata Yojana",
     "Details": [
@@ -3358,6 +3585,11 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "health",
+      "workers"
+    ],
     "place": "Chhattisgarh",
     "Scheme Name": "Silicosis (Bimari) Se Pidit Shramiko Ke Liye Aarthik Evam Punarvas Sahayata Yojana",
     "Details": [
@@ -3411,6 +3643,11 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "financial aid",
+      "government_employees"
+    ],
     "place": "Tamil Nadu",
     "Scheme Name": "Chief Minister's Comprehensive Health Insurance Scheme",
     "Details": [
@@ -3465,6 +3702,7 @@
     ]
   },
   {
+    "Tags": [],
     "place": "Telangana",
     "Scheme Name": "Kanti Velugu",
     "Details": [
@@ -3509,6 +3747,10 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "government_employees"
+    ],
     "place": "Andhra Pradesh",
     "Scheme Name": "Employee Health Scheme",
     "Details": [
@@ -3591,6 +3833,10 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "financial aid"
+    ],
     "place": "Andhra Pradesh",
     "Scheme Name": "Dr. YSR Aarogyasri Health Insurance Scheme",
     "Details": [
@@ -3689,6 +3935,10 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "health"
+    ],
     "place": "Kerala",
     "Scheme Name": "Cancer Suraksha Scheme",
     "Details": [
@@ -3763,6 +4013,11 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "financial aid",
+      "health"
+    ],
     "place": "Jharkhand",
     "Scheme Name": "Chikitsa Sahayata Yojana",
     "Details": [
@@ -3852,6 +4107,10 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "health"
+    ],
     "place": "Ministry Of Health & Family Welfare",
     "Scheme Name": "Nikshay Poshan Yojana",
     "Details": [
@@ -3905,6 +4164,11 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "financial aid",
+      "health"
+    ],
     "place": "Uttar Pradesh",
     "Scheme Name": "Gambhir Bimari Sahayata Yojana",
     "Details": [
@@ -3979,6 +4243,13 @@
     ]
   },
   {
+    "Tags": [
+      "unknown",
+      "disability",
+      "food",
+      "health",
+      "housing"
+    ],
     "place": "Puducherry",
     "Scheme Name": "Aravanaippu Illam",
     "Details": [
@@ -4066,6 +4337,10 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "health"
+    ],
     "place": "Andaman and Nicobar Islands",
     "Scheme Name": "Medical Assistance (ANBOCWWB)",
     "Details": [
@@ -4168,6 +4443,12 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "financial aid",
+      "health",
+      "disaster"
+    ],
     "place": "Gujarat",
     "Scheme Name": "Assistance Scheme for Occupational Diseases (GBOCWWB)",
     "Details": [
@@ -4265,6 +4546,11 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "unknown",
+      "workers"
+    ],
     "place": "Puducherry",
     "Scheme Name": "Specialized Treatment & Medical Assistance Scheme (PBAOCWWB)",
     "Details": [
@@ -4341,6 +4627,10 @@
     ]
   },
   {
+    "Tags": [
+      "disability",
+      "financial aid"
+    ],
     "place": "Ministry Of Social Justice and Empowerment",
     "Scheme Name": "Niramaya Health Insurance Scheme",
     "Details": [
@@ -4475,6 +4765,10 @@
     ]
   },
   {
+    "Tags": [
+      "disability",
+      "financial aid"
+    ],
     "place": "Ministry Of Social Justice and Empowerment",
     "Scheme Name": "Niramaya Health Insurance Scheme",
     "Details": [
@@ -4609,6 +4903,11 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "workers",
+      "financial aid"
+    ],
     "place": "Haryana",
     "Scheme Name": "Financial Assistance for Treatment of Chronic Diseases (HBOCWWB)",
     "Details": [
@@ -4711,6 +5010,11 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "financial aid",
+      "workers"
+    ],
     "place": "Haryana",
     "Scheme Name": "Dental Care Scheme- Haryana Labour Welfare Board",
     "Details": [
@@ -4825,6 +5129,13 @@
     ]
   },
   {
+    "Tags": [
+      "children",
+      "workers",
+      "financial aid",
+      "pregnancy",
+      "women"
+    ],
     "place": "Chhattisgarh",
     "Scheme Name": "Minimata Mahtari Jatan Yojana",
     "Details": [
@@ -4909,6 +5220,10 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "workers"
+    ],
     "place": "Odisha",
     "Scheme Name": "Medical Expenses for Treatment of Major Ailments (O.B.O.C.W.W.B)",
     "Details": [
@@ -5002,6 +5317,11 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "pregnancy",
+      "women"
+    ],
     "place": "Odisha",
     "Scheme Name": "Maternity Benefit (O.B.O.C.W.W.B)",
     "Details": [
@@ -5096,6 +5416,11 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "pregnancy",
+      "women"
+    ],
     "place": "Jammu and Kashmir",
     "Scheme Name": "Maternity Benefit For Female Workers- JKBOCWWB",
     "Details": [
@@ -5202,6 +5527,11 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "financial aid",
+      "health"
+    ],
     "place": "Maharashtra",
     "Scheme Name": "Medical Assistance for the Treatment of Critical Illness",
     "Details": [
@@ -5262,6 +5592,11 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "financial aid",
+      "health"
+    ],
     "place": "Nagaland",
     "Scheme Name": "Medical Assistance (NBOCWWB)",
     "Details": [
@@ -5320,6 +5655,11 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "employment",
+      "workers"
+    ],
     "place": "West Bengal",
     "Scheme Name": "West Bengal Transport Workers’ Social Security Scheme: Assistance on Hospitalization",
     "Details": [
@@ -5389,6 +5729,12 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "health",
+      "employment",
+      "education"
+    ],
     "place": "Jharkhand",
     "Scheme Name": "Mukhyamantri Anusuchit Janjati Gram Vikas Yojana",
     "Details": [
@@ -5456,6 +5802,12 @@
     ]
   },
   {
+    "Tags": [
+      "youth",
+      "children",
+      "education",
+      "food"
+    ],
     "place": "Gujarat",
     "Scheme Name": "PURNA Scheme",
     "Details": [
@@ -5530,6 +5882,11 @@
     ]
   },
   {
+    "Tags": [
+      "social_welfare",
+      "health",
+      "financial aid"
+    ],
     "place": "Sikkim",
     "Scheme Name": "Su-Swastha Yojana",
     "Details": [
@@ -5625,6 +5982,12 @@
     ]
   },
   {
+    "Tags": [
+      "unknown",
+      "disability",
+      "workers",
+      "financial aid"
+    ],
     "place": "Himachal Pradesh",
     "Scheme Name": "Disability Pension (HPBOCWWB)",
     "Details": [
@@ -5714,6 +6077,13 @@
     ]
   },
   {
+    "Tags": [
+      "unknown",
+      "children",
+      "disability",
+      "financial aid",
+      "workers"
+    ],
     "place": "Himachal Pradesh",
     "Scheme Name": "Mentally Retarded Children Benefit Scheme (HPBOCWWB)",
     "Details": [
@@ -5792,6 +6162,12 @@
     ]
   },
   {
+    "Tags": [
+      "animal_husbandry",
+      "employment",
+      "financial aid",
+      "minority"
+    ],
     "place": "Haryana",
     "Scheme Name": "Special Livestock Insurance Scheme",
     "Details": [
@@ -5877,6 +6253,12 @@
     ]
   },
   {
+    "Tags": [
+      "social_welfare",
+      "health",
+      "financial aid",
+      "disability"
+    ],
     "place": "Haryana",
     "Scheme Name": "Deen Dayal Upadhyaya Antyodaya Parivar Suraksha Yojana (DAYALU)",
     "Details": [
@@ -5993,6 +6375,12 @@
     ]
   },
   {
+    "Tags": [
+      "unknown",
+      "financial aid",
+      "workers",
+      "health"
+    ],
     "place": "Bihar",
     "Scheme Name": "Annual Medical Assistance Scheme (BBOCWWB)",
     "Details": [
@@ -6073,6 +6461,10 @@
     ]
   },
   {
+    "Tags": [
+      "ex_servicemen",
+      "health"
+    ],
     "place": "Ministry Of Defence",
     "Scheme Name": "AFFDF-Financial Assistance For Treatment Of Serious Diseases To Non Pensioner Ex-Servicemen (All Ranks)/Widows",
     "Details": [
@@ -6136,6 +6528,12 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "pregnancy",
+      "employment",
+      "workers"
+    ],
     "place": "West Bengal",
     "Scheme Name": "West Bengal Transport Workers’ Social Security Scheme: Maternity Benefit",
     "Details": [
@@ -6195,6 +6593,11 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "minority",
+      "tribal"
+    ],
     "place": "Haryana",
     "Scheme Name": "Dr. Ambedkar Medical Aid Scheme (Revised – 2009)",
     "Details": [
@@ -6274,6 +6677,12 @@
     ]
   },
   {
+    "Tags": [
+      "unknown",
+      "financial aid",
+      "artists_media",
+      "health"
+    ],
     "place": "Assam",
     "Scheme Name": "Journalist's Medical Welfare Scheme - Assam",
     "Details": [
@@ -6354,6 +6763,11 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "financial aid",
+      "workers"
+    ],
     "place": "Chhattisgarh",
     "Scheme Name": "Durghatana Mein Chikitsa Sahaayata Yojana",
     "Details": [
@@ -6398,6 +6812,11 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "health",
+      "pregnancy"
+    ],
     "place": "Chhattisgarh",
     "Scheme Name": "Theka Shramik, Gharelu Mahila Kamgar Evan Hamal Shramik Prasuti Sahayta Yojana",
     "Details": [
@@ -6452,6 +6871,9 @@
     ]
   },
   {
+    "Tags": [
+      "health"
+    ],
     "place": "Ministry Of Health & Family Welfare",
     "Scheme Name": "Health Minister’s Discretionary Grant",
     "Details": [
@@ -6508,6 +6930,11 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "unknown",
+      "government_employees"
+    ],
     "place": "Sikkim",
     "Scheme Name": "Su-Swastha Yojna - Sikkim",
     "Details": [
@@ -6603,6 +7030,11 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "financial aid",
+      "social_welfare"
+    ],
     "place": "Rajasthan",
     "Scheme Name": "Rajasthan Chief Minister's Relief Fund - Medical Help",
     "Details": [
@@ -6650,6 +7082,11 @@
     ]
   },
   {
+    "Tags": [
+      "children",
+      "disability",
+      "health"
+    ],
     "place": "Kerala",
     "Scheme Name": "Sruthitharangam ( Cochlear Implantation Scheme )",
     "Details": [
@@ -6724,6 +7161,11 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "health",
+      "social_welfare"
+    ],
     "place": "Chhattisgarh",
     "Scheme Name": "Mukhyamantri Nirmaan Shramik Dirghayu Sahayata Yojana",
     "Details": [
@@ -6777,6 +7219,14 @@
     ]
   },
   {
+    "Tags": [
+      "farmer",
+      "education",
+      "urban_development",
+      "health",
+      "rural_development",
+      "social_welfare"
+    ],
     "place": "Telangana",
     "Scheme Name": "Grama Jyothi",
     "Details": [
@@ -6859,6 +7309,11 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "health",
+      "disability"
+    ],
     "place": "Assam",
     "Scheme Name": "Medical Assistance (A.B.O.C.W.W.B)",
     "Details": [
@@ -6954,6 +7409,11 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "financial aid",
+      "minority"
+    ],
     "place": "Puducherry",
     "Scheme Name": "Financial Assistance to Poor Scheduled Caste People Suffering From Prolonged Diseases",
     "Details": [
@@ -7035,6 +7495,11 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "health",
+      "social_welfare"
+    ],
     "place": "Uttar Pradesh",
     "Scheme Name": "Nirmaan Kamgar Mrtyu Va Divyangta Sahayta Yojana",
     "Details": [
@@ -7120,6 +7585,12 @@
     ]
   },
   {
+    "Tags": [
+      "unknown",
+      "food",
+      "housing",
+      "disability"
+    ],
     "place": "Puducherry",
     "Scheme Name": "Home for Visually Challenged Person",
     "Details": [
@@ -7207,6 +7678,12 @@
     ]
   },
   {
+    "Tags": [
+      "senior citizen",
+      "health",
+      "psychological_support",
+      "social_welfare"
+    ],
     "place": "Puducherry",
     "Scheme Name": "Day Care - cum - Recreation Centre and Physiotherapy Unit",
     "Details": [
@@ -7273,6 +7750,12 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "women",
+      "pregnancy",
+      "education"
+    ],
     "place": "Andaman and Nicobar Islands",
     "Scheme Name": "Dulari Scheme",
     "Details": [
@@ -7382,6 +7865,12 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "unknown",
+      "financial aid",
+      "workers"
+    ],
     "place": "Puducherry",
     "Scheme Name": "Medical Assistance Scheme (PBAOCWWB)",
     "Details": [
@@ -7465,6 +7954,11 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "financial aid",
+      "health"
+    ],
     "place": "Rajasthan",
     "Scheme Name": "Hita-dhikaari Ke Samanye Athava Durghatana Me Mrityu Ya Ghayal Hone Ki Dasha Me Sahayata Yojana",
     "Details": [
@@ -7550,6 +8044,11 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "health",
+      "workers"
+    ],
     "place": "Rajasthan",
     "Scheme Name": "Silicosis Pidit Hita-dhikariyon Hetu Sahayata Yojana",
     "Details": [
@@ -7624,6 +8123,11 @@
     ]
   },
   {
+    "Tags": [
+      "pregnancy",
+      "health",
+      "women"
+    ],
     "place": "Puducherry",
     "Scheme Name": "Medical Termination of Pregnancy Scheme (PULWS)",
     "Details": [
@@ -7697,6 +8201,10 @@
     ]
   },
   {
+    "Tags": [
+      "disability",
+      "financial aid"
+    ],
     "place": "Chandigarh",
     "Scheme Name": "Assistance For Purchase of Aids/Appliances",
     "Details": [
@@ -7770,6 +8278,10 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "health"
+    ],
     "place": "Tripura",
     "Scheme Name": "Pension Scheme for Grade II Deformed Leprosy Patients",
     "Details": [
@@ -7837,6 +8349,11 @@
     ]
   },
   {
+    "Tags": [
+      "children",
+      "health",
+      "food"
+    ],
     "place": "Uttarakhand",
     "Scheme Name": "Mukhyamantri Aanchal Amrit Yojana",
     "Details": [
@@ -7884,6 +8401,10 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "workers"
+    ],
     "place": "Goa",
     "Scheme Name": "Medical Assistance (GBOCWWB)",
     "Details": [
@@ -7961,6 +8482,11 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "workers",
+      "financial aid"
+    ],
     "place": "Delhi",
     "Scheme Name": "Medical Assistance for the Construction Workers",
     "Details": [
@@ -8051,6 +8577,13 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "financial aid",
+      "health",
+      "pregnancy",
+      "women"
+    ],
     "place": "Delhi",
     "Scheme Name": "Financial Assistance for Miscarriage for the Construction Workers",
     "Details": [
@@ -8138,6 +8671,12 @@
     ]
   },
   {
+    "Tags": [
+      "food",
+      "unknown",
+      "senior citizen",
+      "housing"
+    ],
     "place": "Tamil Nadu",
     "Scheme Name": "Old Age Homes - Tamil Nadu",
     "Details": [
@@ -8197,6 +8736,10 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "workers"
+    ],
     "place": "West Bengal",
     "Scheme Name": "Medical Expenses-Treatment for Major Ailments Including Surgery",
     "Details": [
@@ -8285,6 +8828,11 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "pregnancy",
+      "women"
+    ],
     "place": "West Bengal",
     "Scheme Name": "Miscarriage Benefit",
     "Details": [
@@ -8371,6 +8919,10 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "health"
+    ],
     "place": "Punjab",
     "Scheme Name": "Urban Health Kiosk Scheme (P.B.O.C.W.W.B)",
     "Details": [
@@ -8449,6 +9001,10 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "health"
+    ],
     "place": "Punjab",
     "Scheme Name": "Reimbursement of Expenditure for Occupational Diseases (P.B.O.C.W.W.B)",
     "Details": [
@@ -8553,6 +9109,10 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "health"
+    ],
     "place": "Karnataka",
     "Scheme Name": "Medical Assistance (Karmika Arogya Bhagya) (K.B.O.C.W.W.B)",
     "Details": [
@@ -8649,6 +9209,11 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "health",
+      "disability"
+    ],
     "place": "Punjab",
     "Scheme Name": "Denture, Spectacles & Hearing Aid Scheme (P.B.O.C.W.W.B)",
     "Details": [
@@ -8748,6 +9313,11 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "pregnancy",
+      "women"
+    ],
     "place": "Punjab",
     "Scheme Name": "Maternity Benefit Scheme (P.B.O.C.W.W.B)",
     "Details": [
@@ -8840,6 +9410,12 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "workers",
+      "financial aid",
+      "disability"
+    ],
     "place": "Karnataka",
     "Scheme Name": "Accident Assistance (K.B.O.C.W.W.B)",
     "Details": [
@@ -8939,6 +9515,11 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "health",
+      "financial aid"
+    ],
     "place": "Manipur",
     "Scheme Name": "Medical Expenses for Treatment of Major Ailments of a Beneficiary",
     "Details": [
@@ -9006,6 +9587,11 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "financial aid",
+      "disability"
+    ],
     "place": "Jammu and Kashmir",
     "Scheme Name": "Workers In Case Of Permanent Disablement-JKBOCWWB",
     "Details": [
@@ -9094,6 +9680,13 @@
     ]
   },
   {
+    "Tags": [
+      "children",
+      "disability",
+      "education",
+      "social_welfare",
+      "health"
+    ],
     "place": "Goa",
     "Scheme Name": "Children With Special Needs Under Goa Sarva Shiksha Abhivan",
     "Details": [
@@ -9140,6 +9733,11 @@
     ]
   },
   {
+    "Tags": [
+      "children",
+      "health",
+      "financial aid"
+    ],
     "place": "Assam",
     "Scheme Name": "Sneha Sparsha",
     "Details": [
@@ -9221,6 +9819,12 @@
     ]
   },
   {
+    "Tags": [
+      "unknown",
+      "financial aid",
+      "workers",
+      "health"
+    ],
     "place": "Madhya Pradesh",
     "Scheme Name": "Medical Assistance to Beneficiaries (HPBOCWWB)",
     "Details": [
@@ -9313,6 +9917,11 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "health",
+      "financial aid"
+    ],
     "place": "Himachal Pradesh",
     "Scheme Name": "Funeral Support Scheme (HPBOCWWB)",
     "Details": [
@@ -9381,6 +9990,10 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "health"
+    ],
     "place": "Tripura",
     "Scheme Name": "Tripura Health Assurance Scheme For Poor",
     "Details": [
@@ -9445,6 +10058,10 @@
     ]
   },
   {
+    "Tags": [
+      "children",
+      "pregnancy"
+    ],
     "place": "Gujarat",
     "Scheme Name": "Vandan Matru Yojana",
     "Details": [
@@ -9509,6 +10126,12 @@
     ]
   },
   {
+    "Tags": [
+      "unknown",
+      "health",
+      "financial aid",
+      "workers"
+    ],
     "place": "Rajasthan",
     "Scheme Name": "Nirman Shramik Jeevan va Bhavishya Suraksha Yojana",
     "Details": [
@@ -9593,6 +10216,11 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "financial aid",
+      "social_welfare"
+    ],
     "place": "Punjab",
     "Scheme Name": "Mukhmantri Sehat Bima Yojana",
     "Details": [
@@ -9643,6 +10271,11 @@
     ]
   },
   {
+    "Tags": [
+      "women",
+      "health",
+      "financial aid"
+    ],
     "place": "Tamil Nadu",
     "Scheme Name": "Financial Assistance for Medical Treatment of Journalists",
     "Details": [
@@ -9714,6 +10347,10 @@
     ]
   },
   {
+    "Tags": [
+      "social_welfare",
+      "health"
+    ],
     "place": "Jharkhand",
     "Scheme Name": "Mukhyamantri Abua Swasthya Suraksha Yojana",
     "Details": [
@@ -9784,6 +10421,10 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "financial_protection"
+    ],
     "place": "Ministry Of Health & Family Welfare",
     "Scheme Name": "Pradhan Mantri Garib Kalyan Package : Insurance Scheme For Health Workers Fighting COVID-19",
     "Details": [
@@ -9870,6 +10511,11 @@
     ]
   },
   {
+    "Tags": [
+      "pregnancy",
+      "health",
+      "minority"
+    ],
     "place": "Ministry Of Minority Affairs",
     "Scheme Name": "Jiyo Parsi Scheme – Medical Assistance",
     "Details": [
@@ -9979,6 +10625,10 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "minority"
+    ],
     "place": "Ministry Of Minority Affairs",
     "Scheme Name": "Jiyo Parsi Scheme – Health of the Community",
     "Details": [
@@ -10055,6 +10705,12 @@
     ]
   },
   {
+    "Tags": [
+      "women",
+      "health",
+      "urban_development",
+      "youth"
+    ],
     "place": "Arunachal Pradesh",
     "Scheme Name": "Girl Students Health & Hygiene Scheme",
     "Details": [
@@ -10108,6 +10764,12 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "pregnancy",
+      "health",
+      "women"
+    ],
     "place": "Karnataka",
     "Scheme Name": "Maternity Benefit/Delivery Assistance (K.B.O.C.W.W.B)",
     "Details": [
@@ -10204,6 +10866,11 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "pregnancy",
+      "women"
+    ],
     "place": "Jharkhand",
     "Scheme Name": "Matrutva Prasuvidha Yojana",
     "Details": [
@@ -10291,6 +10958,10 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "health"
+    ],
     "place": "Chhattisgarh",
     "Scheme Name": "Safai Karmakar Gambhir Bimari Chikitsa Sahayata Yojana",
     "Details": [
@@ -10348,6 +11019,11 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "children",
+      "health"
+    ],
     "place": "Kerala",
     "Scheme Name": "Thalolam Scheme",
     "Details": [
@@ -10416,6 +11092,12 @@
     ]
   },
   {
+    "Tags": [
+      "children",
+      "social_welfare",
+      "health",
+      "pregnancy"
+    ],
     "place": "Gujarat",
     "Scheme Name": "Atal Sneh Yojana",
     "Details": [
@@ -10475,6 +11157,11 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "workers",
+      "financial aid"
+    ],
     "place": "Arunachal Pradesh",
     "Scheme Name": "Medical Assistance (APB&OCWWB)",
     "Details": [
@@ -10544,6 +11231,10 @@
     ]
   },
   {
+    "Tags": [
+      "pregnancy",
+      "unknown"
+    ],
     "place": "Telangana",
     "Scheme Name": "KCR Nutrition Kit",
     "Details": [
@@ -10615,6 +11306,11 @@
     ]
   },
   {
+    "Tags": [
+      "pregnancy",
+      "health",
+      "children"
+    ],
     "place": "Telangana",
     "Scheme Name": "Arogya Lakshmi",
     "Details": [
@@ -10708,6 +11404,10 @@
     ]
   },
   {
+    "Tags": [
+      "ex_servicemen",
+      "health"
+    ],
     "place": "Ministry Of Defence",
     "Scheme Name": "RMEWF-Financial Assistance For Medical Treatment Of Ex-Servicemen",
     "Details": [
@@ -10753,6 +11453,10 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "urban_development"
+    ],
     "place": "Madhya Pradesh",
     "Scheme Name": "Udita Yojana",
     "Details": [
@@ -10789,6 +11493,9 @@
     ]
   },
   {
+    "Tags": [
+      "health"
+    ],
     "place": "Assam",
     "Scheme Name": "Chief Minister’s Free Diagnostic Services",
     "Details": [
@@ -10842,6 +11549,9 @@
     ]
   },
   {
+    "Tags": [
+      "health"
+    ],
     "place": "Ministry Of Health & Family Welfare",
     "Scheme Name": "Nikshay Poshan Yojana (Nutritional Support To TB Patients)",
     "Details": [
@@ -10892,6 +11602,11 @@
     ]
   },
   {
+    "Tags": [
+      "social_welfare",
+      "financial aid",
+      "health"
+    ],
     "place": "Himachal Pradesh",
     "Scheme Name": "Mukhya Mantri Sahara Yojana",
     "Details": [
@@ -10937,6 +11652,11 @@
     ]
   },
   {
+    "Tags": [
+      "social_welfare",
+      "financial aid",
+      "health"
+    ],
     "place": "Rajasthan",
     "Scheme Name": "Mukhyamantri Chiranjeevi Swasthya Beema Yojana",
     "Details": [
@@ -11003,6 +11723,11 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "health",
+      "financial aid"
+    ],
     "place": "Assam",
     "Scheme Name": "Health Check-up (A.B.O.C.W.W.B)",
     "Details": [
@@ -11090,6 +11815,10 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "financial aid"
+    ],
     "place": "Tripura",
     "Scheme Name": "Pension Scheme for Cancer Patients",
     "Details": [
@@ -11153,6 +11882,10 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "health"
+    ],
     "place": "Gujarat",
     "Scheme Name": "Total Health Check-up Scheme (GBOCWWB)",
     "Details": [
@@ -11251,6 +11984,10 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "health"
+    ],
     "place": "Gujarat",
     "Scheme Name": "Dhanvantari Arogya Rath Yojana (GBOCWWB)",
     "Details": [
@@ -11299,6 +12036,11 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "pregnancy",
+      "food"
+    ],
     "place": "Uttarakhand",
     "Scheme Name": "Mukhyamantri Mahila Poshan Yojana",
     "Details": [
@@ -11349,6 +12091,12 @@
     ]
   },
   {
+    "Tags": [
+      "women",
+      "health",
+      "unknown",
+      "food"
+    ],
     "place": "Uttarakhand",
     "Scheme Name": "Mukhyamantri Mahalaxmi Kit Yojana",
     "Details": [
@@ -11410,6 +12158,10 @@
     ]
   },
   {
+    "Tags": [
+      "women",
+      "health"
+    ],
     "place": "Uttarakhand",
     "Scheme Name": "Sanitary Napkin Scheme",
     "Details": [
@@ -11454,6 +12206,11 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "food",
+      "pregnancy"
+    ],
     "place": "Ministry of Women and Child Development",
     "Scheme Name": "Pradhan Mantri Matru Vandana Yojana",
     "Details": [
@@ -11583,6 +12340,12 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "workers",
+      "disability",
+      "financial aid"
+    ],
     "place": "Telangana",
     "Scheme Name": "Hospitalisation Relief Scheme",
     "Details": [
@@ -11642,6 +12405,12 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "financial aid",
+      "pregnancy",
+      "women"
+    ],
     "place": "Nagaland",
     "Scheme Name": "Maternity Benefit for Women Beneficiaries",
     "Details": [
@@ -11700,6 +12469,11 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "disability",
+      "social_welfare"
+    ],
     "place": "Jammu and Kashmir",
     "Scheme Name": "Indira Gandhi National Disability Pension Scheme (Jammu and Kashmir)",
     "Details": [
@@ -11779,6 +12553,10 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "financial aid"
+    ],
     "place": "Madhya Pradesh",
     "Scheme Name": "Funeral Assistance Scheme (Madhya Pradesh)",
     "Details": [
@@ -11846,6 +12624,11 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "health",
+      "employment"
+    ],
     "place": "Bihar",
     "Scheme Name": "Bihar Shatabdi Asangathit Karyakshetra Kamagaar Evan Shilpakar Samajik Suraksha Yojana: Medical Assistance for Incurable Diseases",
     "Details": [
@@ -11908,6 +12691,10 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "employment"
+    ],
     "place": "Bihar",
     "Scheme Name": "Bihar Shatabdi Asangathit Karyakshetra Kamagaar Evan Shilpakar Samajik Suraksha Yojana: Accidental Death",
     "Details": [
@@ -11969,6 +12756,11 @@
     ]
   },
   {
+    "Tags": [
+      "children",
+      "food",
+      "pregnancy"
+    ],
     "place": "Gujarat",
     "Scheme Name": "Poshan Sudha",
     "Details": [
@@ -12026,6 +12818,10 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "health"
+    ],
     "place": "Jharkhand",
     "Scheme Name": "Mukhyamantri Gambhir Bimari Upchar Yojana",
     "Details": [
@@ -12088,6 +12884,13 @@
     ]
   },
   {
+    "Tags": [
+      "pregnancy",
+      "psychological_support",
+      "education",
+      "women",
+      "health"
+    ],
     "place": "Madhya Pradesh",
     "Scheme Name": "Kishori Balika Yojana (Madhya Pradesh)",
     "Details": [
@@ -12139,6 +12942,12 @@
     ]
   },
   {
+    "Tags": [
+      "disability",
+      "education",
+      "financial aid",
+      "youth"
+    ],
     "place": "Chhattisgarh",
     "Scheme Name": "Divyangjan Scholarship Scheme",
     "Details": [
@@ -12202,6 +13011,11 @@
     ]
   },
   {
+    "Tags": [
+      "pregnancy",
+      "disability",
+      "women"
+    ],
     "place": "Tamil Nadu",
     "Scheme Name": "Assistance For Delivery / Miscarriage Of Pregnancy / Termination Of Pregnancy To Female Differently Abled Person",
     "Details": [
@@ -12256,6 +13070,10 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "health"
+    ],
     "place": "Chhattisgarh",
     "Scheme Name": "Theka Shramik, Hamaal Shramik Evan Gharelu Mahila Kamgar Gambhir Bimaari Chikitsa Sahayata Yojana",
     "Details": [
@@ -12313,6 +13131,10 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "women"
+    ],
     "place": "Chhattisgarh",
     "Scheme Name": "Dai Didi Mobile Clinic Scheme",
     "Details": [
@@ -12356,6 +13178,12 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "financial aid",
+      "minority",
+      "tribal"
+    ],
     "place": "Assam",
     "Scheme Name": "Grants In Aid To SC/ST Patients Suffering From Cancer And Other Malignant Diseases",
     "Details": [
@@ -12392,6 +13220,12 @@
     ]
   },
   {
+    "Tags": [
+      "disability",
+      "education",
+      "health",
+      "employment"
+    ],
     "place": "Meghalaya",
     "Scheme Name": "Rehabilitation Treatment For The Disabled",
     "Details": [
@@ -12450,6 +13284,12 @@
     ]
   },
   {
+    "Tags": [
+      "social_welfare",
+      "financial aid",
+      "minority",
+      "health"
+    ],
     "place": "Mizoram",
     "Scheme Name": "Grant-in-aid (TB)",
     "Details": [
@@ -12506,6 +13346,10 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "pregnancy"
+    ],
     "place": "Ministry Of Health & Family Welfare",
     "Scheme Name": "Surakshit Matritva Aashwasan Yojana",
     "Details": [
@@ -12558,6 +13402,13 @@
     ]
   },
   {
+    "Tags": [
+      "employment",
+      "women",
+      "food",
+      "health",
+      "youth"
+    ],
     "place": "Ministry of Women and Child Development",
     "Scheme Name": "Scheme For Adolescent Girls",
     "Details": [
@@ -12621,6 +13472,12 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "workers",
+      "pregnancy",
+      "women"
+    ],
     "place": "Arunachal Pradesh",
     "Scheme Name": "Maternity Benefit Scheme (APB&OCWWB)",
     "Details": [
@@ -12694,6 +13551,11 @@
     ]
   },
   {
+    "Tags": [
+      "children",
+      "health",
+      "education"
+    ],
     "place": "Ministry of Education",
     "Scheme Name": "PM POSHAN - Prime Minister's Overarching Scheme For Holistic Nourishment",
     "Details": [
@@ -12738,6 +13600,10 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "health"
+    ],
     "place": "Chhattisgarh",
     "Scheme Name": "Safai Karmakar Bahay Rogi Chikitsa Sahayata Yojana",
     "Details": [
@@ -12795,6 +13661,10 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "social_welfare"
+    ],
     "place": "West Bengal",
     "Scheme Name": "Sishu Sathi",
     "Details": [
@@ -12851,6 +13721,9 @@
     ]
   },
   {
+    "Tags": [
+      "health"
+    ],
     "place": "Arunachal Pradesh",
     "Scheme Name": "Chief Minister’s Free Cancer Chemotherapy Scheme",
     "Details": [
@@ -12913,6 +13786,11 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "social_welfare",
+      "financial aid"
+    ],
     "place": "Delhi",
     "Scheme Name": "Delhi Arogya Kosh",
     "Details": [
@@ -12996,6 +13874,11 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "health",
+      "financial aid"
+    ],
     "place": "Jharkhand",
     "Scheme Name": "Chikitsa Pratipoorti Yojana",
     "Details": [
@@ -13089,6 +13972,7 @@
     ]
   },
   {
+    "Tags": [],
     "place": "Delhi",
     "Scheme Name": "Financial Assistance For Persons With Special Needs",
     "Details": [
@@ -13178,6 +14062,9 @@
     ]
   },
   {
+    "Tags": [
+      "health"
+    ],
     "place": "Arunachal Pradesh",
     "Scheme Name": "Chief Minister Arogya Arunachal Yojana",
     "Details": [
@@ -13280,6 +14167,12 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "health",
+      "minority",
+      "tribal"
+    ],
     "place": "Assam",
     "Scheme Name": "Financial Grants In Aid To SC/ST Patients Suffering From Cancer And Other Malignant Diseases",
     "Details": [
@@ -13341,6 +14234,11 @@
     ]
   },
   {
+    "Tags": [
+      "social_welfare",
+      "health",
+      "financial aid"
+    ],
     "place": "Himachal Pradesh",
     "Scheme Name": "Rehabilitation Allowance To Lepers",
     "Details": [
@@ -13401,6 +14299,10 @@
     ]
   },
   {
+    "Tags": [
+      "employment",
+      "health"
+    ],
     "place": "Ministry Of Chemicals And Fertilizers",
     "Scheme Name": "Pradhan Mantri Bhartiya Janaushadhi Pariyojana",
     "Details": [
@@ -13510,6 +14412,11 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "financial aid",
+      "senior citizen"
+    ],
     "place": "Puducherry",
     "Scheme Name": "Financial Assistance to Old Age Pensioner Suffering From TB/ Cancer",
     "Details": [
@@ -13581,6 +14488,10 @@
     ]
   },
   {
+    "Tags": [
+      "disability",
+      "food"
+    ],
     "place": "Puducherry",
     "Scheme Name": "Free Distribution of Rice to Differently Abled Persons",
     "Details": [
@@ -13661,6 +14572,13 @@
     ]
   },
   {
+    "Tags": [
+      "children",
+      "food",
+      "housing",
+      "health",
+      "psychological_support"
+    ],
     "place": "Puducherry",
     "Scheme Name": "Home for Mentally Challenged Children",
     "Details": [
@@ -13753,6 +14671,13 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "food",
+      "housing",
+      "senior citizen",
+      "social_welfare"
+    ],
     "place": "Puducherry",
     "Scheme Name": "“Home for the Aged\" under Grant-in-Aid to Pondicherry Society for the Care of the Aged (PONCARE)",
     "Details": [
@@ -13820,6 +14745,10 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "senior citizen"
+    ],
     "place": "Puducherry",
     "Scheme Name": "“Medical Camps (Allopathy and Indian systems of Medicine)\" under Grant-in-Aid to Pondicherry Society for the Care of the Aged (PONCARE)",
     "Details": [
@@ -13887,6 +14816,11 @@
     ]
   },
   {
+    "Tags": [
+      "psychological_support",
+      "social_welfare",
+      "employment"
+    ],
     "place": "Puducherry",
     "Scheme Name": "“Family Counseling\" under Grant-in-Aid to Pondicherry State Social Welfare Board",
     "Details": [
@@ -13940,6 +14874,12 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "health",
+      "pregnancy",
+      "women"
+    ],
     "place": "Tripura",
     "Scheme Name": "Mukhyamantri Matrupushti Uphar",
     "Details": [
@@ -13991,6 +14931,10 @@
     ]
   },
   {
+    "Tags": [
+      "social_welfare",
+      "youth"
+    ],
     "place": "Ministry Of Youth Affairs & Sports",
     "Scheme Name": "National Youth Award",
     "Details": [
@@ -14070,6 +15014,10 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "artists_media"
+    ],
     "place": "Puducherry",
     "Scheme Name": "Free Medical Card for Media Persons",
     "Details": [
@@ -14135,6 +15083,11 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "workers",
+      "financial aid"
+    ],
     "place": "Meghalaya",
     "Scheme Name": "Medical Assistance (MBOCWWB)",
     "Details": [
@@ -14258,6 +15211,11 @@
     ]
   },
   {
+    "Tags": [
+      "social_welfare",
+      "health",
+      "financial aid"
+    ],
     "place": "Andaman and Nicobar Islands",
     "Scheme Name": "Andaman & Nicobar Islands Scheme for Health Insurance",
     "Details": [
@@ -14332,6 +15290,13 @@
     ]
   },
   {
+    "Tags": [
+      "unknown",
+      "social_welfare",
+      "financial aid",
+      "pregnancy",
+      "workers"
+    ],
     "place": "Puducherry",
     "Scheme Name": "Maternity Assistance Scheme (PBAOCWWB)",
     "Details": [
@@ -14425,6 +15390,11 @@
     ]
   },
   {
+    "Tags": [
+      "children",
+      "health",
+      "food"
+    ],
     "place": "Uttarakhand",
     "Scheme Name": "Mukhyamantri Bal Poshan Yojana",
     "Details": [
@@ -14475,6 +15445,12 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "financial aid",
+      "pregnancy",
+      "health"
+    ],
     "place": "Delhi",
     "Scheme Name": "Maternity Assistance for the Construction Workers",
     "Details": [
@@ -14565,6 +15541,10 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "women"
+    ],
     "place": "Uttarakhand",
     "Scheme Name": "Sanitary Napkin Scheme (UKBOCWWB)",
     "Details": [
@@ -14652,6 +15632,11 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "financial aid",
+      "health"
+    ],
     "place": "Sikkim",
     "Scheme Name": "Medical Assistance for the Construction Worker",
     "Details": [
@@ -14740,6 +15725,10 @@
     ]
   },
   {
+    "Tags": [
+      "financial_protection",
+      "health"
+    ],
     "place": "Odisha",
     "Scheme Name": "Biju Swasthya Kalyan Yojana",
     "Details": [
@@ -14832,6 +15821,9 @@
     ]
   },
   {
+    "Tags": [
+      "health"
+    ],
     "place": "Odisha",
     "Scheme Name": "Niramaya Scheme",
     "Details": [
@@ -14921,6 +15913,10 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "workers"
+    ],
     "place": "Karnataka",
     "Scheme Name": "Assistance For Major Ailments (Karmika Chikitsa Bhagya) (K.B.O.C.W.W.B)",
     "Details": [
@@ -15013,6 +16009,11 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "disability",
+      "financial aid"
+    ],
     "place": "Karnataka",
     "Scheme Name": "Disability Pension and Ex-Gratia (K.B.O.C.W.W.B)",
     "Details": [
@@ -15116,6 +16117,10 @@
     ]
   },
   {
+    "Tags": [
+      "children",
+      "health"
+    ],
     "place": "Gujarat",
     "Scheme Name": "Bal Sakha Yojana",
     "Details": [
@@ -15178,6 +16183,13 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "financial aid",
+      "pregnancy",
+      "employment",
+      "women"
+    ],
     "place": "Tamil Nadu",
     "Scheme Name": "District Central Cooperative Banks and through its Branches: For Maternity Loan through Self Help Groups",
     "Details": [
@@ -15237,6 +16249,11 @@
     ]
   },
   {
+    "Tags": [
+      "health",
+      "employment",
+      "workers"
+    ],
     "place": "West Bengal",
     "Scheme Name": "West Bengal Transport Workers’ Social Security Scheme: Medical Benefit for Major Ailments",
     "Details": [
@@ -15306,6 +16323,11 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "disability",
+      "employment"
+    ],
     "place": "Bihar",
     "Scheme Name": "Bihar Shatabdi Asangathit Karyakshetra Kamagaar Evan Shilpakar Samajik Suraksha Yojana: Permanent Partial Disability",
     "Details": [
@@ -15369,6 +16391,13 @@
     ]
   },
   {
+    "Tags": [
+      "minority",
+      "financial aid",
+      "health",
+      "rural_development",
+      "tribal"
+    ],
     "place": "Jharkhand",
     "Scheme Name": "Mukhyamantri Swasthya Sahayata Yojana Jharkhand",
     "Details": [
@@ -15454,6 +16483,11 @@
     ]
   },
   {
+    "Tags": [
+      "children",
+      "pregnancy",
+      "food"
+    ],
     "place": "Gujarat",
     "Scheme Name": "Mukhyamantri Matrushakti Yojana",
     "Details": [
@@ -15527,6 +16561,12 @@
     ]
   },
   {
+    "Tags": [
+      "children",
+      "food",
+      "pregnancy",
+      "tribal"
+    ],
     "place": "Gujarat",
     "Scheme Name": "Doodh Sanjivani Scheme",
     "Details": [
@@ -15586,6 +16626,10 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "health"
+    ],
     "place": "Himachal Pradesh",
     "Scheme Name": "Mukhya Mantri Himachal Health Care Scheme-HIMCARE",
     "Details": [
@@ -15654,6 +16698,11 @@
     ]
   },
   {
+    "Tags": [
+      "financial aid",
+      "health",
+      "tribal"
+    ],
     "place": "Jharkhand",
     "Scheme Name": "Special Health Scheme for Primitive Tribes",
     "Details": [
@@ -15709,6 +16758,9 @@
     ]
   },
   {
+    "Tags": [
+      "health"
+    ],
     "place": "Maharashtra",
     "Scheme Name": "Mahatma Jyotirao Phule Jan Arogya Yojana",
     "Details": [
@@ -15812,6 +16864,12 @@
     ]
   },
   {
+    "Tags": [
+      "unknown",
+      "workers",
+      "pregnancy",
+      "women"
+    ],
     "place": "Bihar",
     "Scheme Name": "Maternity Benefits Scheme (BBOCWWB)",
     "Details": [
@@ -15879,6 +16937,10 @@
     ]
   },
   {
+    "Tags": [
+      "ex_servicemen",
+      "disability"
+    ],
     "place": "Ministry Of Defence",
     "Scheme Name": "Financial Assistance For Procuring Mobility Equipment To Disabled Ex-Servicemen (All Ranks)",
     "Details": [
@@ -15957,6 +17019,11 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "children",
+      "disability"
+    ],
     "place": "Punjab",
     "Scheme Name": "Mentally Retarded Children Benefit Scheme (P.B.O.C.W.W.B)",
     "Details": [
@@ -16047,6 +17114,12 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "women",
+      "health",
+      "employment"
+    ],
     "place": "Dadra & Nagar Haveli and Daman & Diu",
     "Scheme Name": "Distribution of Female Menstrual Hygiene Kit for the Construction Workers",
     "Details": [
@@ -16120,6 +17193,10 @@
     ]
   },
   {
+    "Tags": [
+      "workers",
+      "health"
+    ],
     "place": "Dadra & Nagar Haveli and Daman & Diu",
     "Scheme Name": "Medical Assistance and Wage Loss for the Construction Workers",
     "Details": [
